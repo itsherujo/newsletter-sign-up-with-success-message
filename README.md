@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/newsletter-sign-up-with-success-message-HdkXl76_rg](https://www.frontendmentor.io/solutions/newsletter-sign-up-with-success-message-HdkXl76_rg)
 - Live Site URL: [https://newsletter-sign-up-byjo.netlify.app/](https://newsletter-sign-up-byjo.netlify.app/)
 
 ## My process
@@ -50,4 +50,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)# newsletter-sign-up-with-success-message
+- Frontend Mentor - [@itsherujo](https://www.frontendmentor.io/profile/itsherujo)# newsletter-sign-up-with-success-message

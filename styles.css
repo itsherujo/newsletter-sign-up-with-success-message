@@ -222,7 +222,7 @@ span#email-error {
     }
 
    .container {
-    height: 100vh;
+    height: 100%;
     grid-template-columns: 1fr;
     grid-template-rows: 1fr;
     padding: 0;
